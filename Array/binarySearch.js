@@ -20,5 +20,5 @@ function binarySearch(arr, target) {
 
 }
 
-let arr = [2, 5, 6, 8, 9, 11, 27];
-console.log(binarySearch(arr, 1));
+let arr = [0,1,2,2,2,4,5];
+console.log(binarySearch(arr, 2));
